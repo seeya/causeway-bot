@@ -1,0 +1,25 @@
+{
+  "name": "causeway-bot",
+  "version": "0.0.1",
+  "description": "Returns you images of the causeway.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "request": "^2.88.0",
+    "telegraf": "^3.25.5"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/causeway-bot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
